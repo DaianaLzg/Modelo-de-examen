@@ -1,3 +1,4 @@
+#implementacion de funciones
 from funciones import carga_de_productos, buscar_producto, ordenar_por_precio, producto_mas_caro, producto_mas_barato
 
 
